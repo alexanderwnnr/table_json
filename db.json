@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Name_1",
+      "surname": "Surname_1",
+      "email": "email_1@gmail.com",
+      "phone": 2222134122222,
+      "id": 1
+    },
+    {
+      "name": "Name_3",
+      "surname": "Surname_3",
+      "email": "email_3@gmail.com",
+      "phone": 2333333331111,
+      "id": 3
+    },
+    {
+      "name": "Name_4",
+      "surname": "Surname_4",
+      "email": "email_4@gmail.com",
+      "number": 5474144444444,
+      "id": 4
+    },
+    {
+      "name": "Name_5",
+      "surname": "Surname_5",
+      "email": "email_5@gmail.com",
+      "phone": 58643522488,
+      "id": 5
+    }
+  ]
+}
